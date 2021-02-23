@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:eess.* OR cat:cond-mat.mes-hall OR cat:physics.app-ph'
+subject: 'cat:eess.* OR cat:cond-mat.mes-hall OR  cat:cond-mat.mtrl-sci OR cat:physics.app-ph'
 
 # 検索キーワード
 keywords:
