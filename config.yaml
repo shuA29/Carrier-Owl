@@ -1,9 +1,8 @@
 # arxivの学問領域の指定
-subject: 'cat:eess.* OR cat:cond-mat.mes-hall OR  cat:cond-mat.mtrl-sci OR cat:physics.app-ph'
+subject: 'cat:eess.* OR cat:cond-mat.mes-hall OR  cat:cond-mat.mtrl-sci OR cat:physics.app-ph OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-    quantum: 5
     diamond: 3
     silicon quantum dots: 5
     coherence: 5
@@ -13,6 +12,8 @@ keywords:
     wearable: 5
     thermoelectric generation: 5
     μ TEG: 5
+    MRAM: 5
+    MTJ: 5
 
 
 # 通知の閾値
